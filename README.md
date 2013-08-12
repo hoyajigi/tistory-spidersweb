@@ -1,6 +1,6 @@
 # [Spider's Web v1.0.0](http://markquery.com) 
 
-MARKQUERY Skeleton For Tisotry 
+MARKQUERY Skeleton For Tisotry with bootstrap 2
 
 * Home page [http://markquery.com](http://markquery.com)
 * GitHub page: [http://markquery.github.io](http://markquery.github.io)
@@ -14,8 +14,6 @@ MARKQUERY Skeleton For Tisotry
    `https://github.com/markquery/tistory-spidersweb.git`
 
 - Update latest [markquery](https://github.com/markquery/markquery) and check the changelog, reference [http://markquery.github.io](http://markquery.github.io)
-
-You can now download [Customized bootstrap 3](https://github.com/markquery/markquery/archive/master.zip) or [get original twitter bootstrap 3](http://getbootstrap.com/)
 
 ### Versioning
 

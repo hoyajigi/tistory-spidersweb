@@ -1,14 +1,14 @@
 # [Spider's Web v1.0.0](http://markquery.com) 
 
-MARKQUERY Skeleton For Tisotry with bootstrap 2
+MARKQUERY Skeleton For Tistory with bootstrap 2
 
 * Home page [http://markquery.com](http://markquery.com)
 * GitHub page: [http://markquery.github.io](http://markquery.github.io)
 
 ## Getting Started
 
-- [download](https://github.com/markquery/tistory-spidersweb/archive/master.zip)  the zip file.
-   `https://github.com/markquery/tistory-spidersweb/archive/master.zip`
+- [download](https://github.com/markquery/tistory-spidersweb/archive/bootstrap2.zip)  the zip file.
+   `https://github.com/markquery/tistory-spidersweb/archive/bootstrap2.zip`
 
 -  or Clone the git repo — git clone
    `https://github.com/markquery/tistory-spidersweb.git`
